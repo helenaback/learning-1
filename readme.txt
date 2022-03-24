@@ -1,3 +1,3 @@
 # Learning 
 
-hier kommt der Inhalt 
+erstes readme in github
